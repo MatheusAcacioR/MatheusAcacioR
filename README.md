@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 [![HitCount](http://hits.dwyl.com/matheus-2000/matheus-2000.svg)](http://hits.dwyl.com/matheus-2000/matheus-2000)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheus-2000)](https://github.com/matheus-2000)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matheus-acácio-64b39b19b)](https://www.linkedin.com/in/matheus-acácio-64b39b19b/)
-[![Lattes Badge](https://img.shields.io/badge/-Lattes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matheus-acácio-64b39b19b)](https://www.linkedin.com/in/matheus-acácio-64b39b19b/)
