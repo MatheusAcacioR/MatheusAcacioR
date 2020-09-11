@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![HitCount](http://hits.dwyl.com/matheus-2000/matheus-2000.svg)](http://hits.dwyl.com/matheus-2000/portalacessibilidade)
+[![HitCount](http://hits.dwyl.com/matheus-2000/matheus-2000.svg)](http://hits.dwyl.com/matheus-2000/matheus-2000)
